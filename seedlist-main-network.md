@@ -13,5 +13,5 @@
     "/dns4/main9.seed.starcoin.org/tcp/9840/p2p/12D3KooWLKo5X7yntEaAhUTh62ksD8pwsSu7CyTgZ76bRcStHF7x",
 
     // volunteer seed list here
-    // todo 
+    "/ip4/107.174.115.118/tcp/9840/p2p/12D3KooWMUto6c2qAsXep9bJhdN9Bs9nNTLiH5GPurfy2Q5R1w5a",
 ```
